@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Spencer!
-- 👀 I’m interested in coding with Python and Java, volleyball, and learning.
+- 👀 I’m interested in coding with Python and Java.
 - 🌱 I’m currently learning how to make a Discord bot in Python.
 
 <!---
